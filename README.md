@@ -1,4 +1,4 @@
-# Singhacks Travel Insurance Chatbot
+# Travel Insurance Chatbot
 ### Motivation
 
 This project was developed for the 2025 Singhacks Hackathon. Our goal was to build an intelligent travel insurance chatbot that can analyse past claims data to identify potential risks for a user’s upcoming trip. For example, when a user says, “I’m going to Okinawa, Japan in July 2026—what risks should I expect and what insurance should I buy?”, the chatbot returns a list of likely risks and recommends an appropriate insurance plan based on historical patterns.
